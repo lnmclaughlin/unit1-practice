@@ -1,0 +1,42 @@
+h1 {
+    color:crimson;
+    font-family:sans-serif;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 15px;
+}
+h2 {
+    color:crimson;
+    font-family:sans-serif;
+    border-bottom-width: 4px;
+    border-bottom-style:dotted;
+    border-bottom-color:crimson;
+}
+h3 {
+    color:crimson;
+    font-family:sans-serif;
+}
+.overview {
+    font-style:italic;
+}
+header {
+    background-color:#eee;
+    padding: 10px;
+    border-bottom-width: 1px;
+    border-bottom-style:solid;
+    border-bottom-color:silver;
+}
+footer {
+    background-color:#eee;
+    padding: 10px;
+    border-top-width: 1px;
+    border-top-style:solid;
+    border-top-color:silver;
+}
+.footer h3 {
+    margin-top: 0;
+}
+body {
+    margin: 0;
+}
